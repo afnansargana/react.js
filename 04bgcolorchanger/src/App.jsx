@@ -6,6 +6,8 @@ import { useState } from 'react'
  import './index.css' 
 // import { buildErrorMessage } from 'vite'
 
+
+//usestate hook
 function App() {
   const [color, setColor] = useState("pink")
 
